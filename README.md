@@ -10,6 +10,6 @@
 — Tzanca The Hurricane
 
 ## Why am I here?
-**I am here because I want to learn how to code. I have zero experience regarding coding, I'm not studying it in any of my classes because I am preparing in order to become a diplomat. I want to learn how to make cool web apps and small games with my friends.**
+**I am here because I want to learn how to code. I have zero experience regarding coding, I'm not studying it in any of my classes because I am preparing to become a diplomat. I want to learn how to make cool web apps and small games with my friends.**
 ## My goals for the year
-**Before the end of this year I want to learn the basics of HTML, CSS and Javascript, build my own website from scartch, and a small game with my friends.**
+**Before the end of this year I want to learn the basics of HTML, CSS, and Javascript, build my website from scratch, and a small game with my friends.**
